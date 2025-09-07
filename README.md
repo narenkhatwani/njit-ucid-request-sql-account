@@ -1,4 +1,4 @@
-# njit-CS631/CS632 Request Access to SQL/Oracle Account and steps to get SQL developer up and running requesting an Account
+Request Access to SQL/Oracle Account and steps to get SQL developer up and running requesting an Account
 
 Students, faculty, and staff can request an **Oracle** or **MySQL** account using the **MyUCID Management** website:
 
